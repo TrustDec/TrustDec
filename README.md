@@ -14,6 +14,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-[![TrustDec's Github Stats](https://github-readme-stats.vercel.app/api?username=TrustDec&count_private=true&show_icons=true&theme=vue)](https://github.com/anuraghazra/github-readme-stats)
+[![TrustDec's Github Stats](https://github-readme-stats.vercel.app/api?username=TrustDec&count_private=true&show_icons=true&theme=Gradient)](https://github.com/anuraghazra/github-readme-stats)
 
 ## ✨ 激赏 | Donation ✨
