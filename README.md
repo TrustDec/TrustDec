@@ -1,45 +1,37 @@
-
 ### Hello! I'm TrustDec 👋
 
-**Languages and Tools:**  
+**Languages and Tools:**
 
 <div>
     <a href="https://github.com/TrustDec">
-      <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
+        <img height="30"
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">
     </a>
-
-  <a href="https://github.com/TrustDec">
-    <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
-  </a>
-
-  <a href="https://github.com/facebook/react/">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
-     </a>
-
-  <a href="https://github.com/TrustDec">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/graphql/graphql.png">
-     </a>
-
-  <a href="https://github.com/TrustDec">
-  <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
-     </a>
-
-  <a href="https://github.com/TrustDec">
-  <img height="30" src="https://avatars.githubusercontent.com/u/88368777?s=64&v=4">
-     </a>
-
-  <a href="https://github.com/TrustDec">
-  <img height="30" src="https://avatars.githubusercontent.com/u/39974763?s=64&v=4">
-     </a>
-
-  <a href="https://github.com/TrustDec">
-  <img height="30" src="https://avatars.githubusercontent.com/u/39607406?s=64&v=4">
-     </a>
-
-  <a href="https://github.com/TrustDec">
-  <img height="30" src="https://avatars.githubusercontent.com/u/44854347?s=64&v=4">
-     </a>
- </div>
+    <a href="https://github.com/TrustDec">
+        <img height="30"
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">
+    </a>
+    <a href="https://github.com/TrustDec">
+        <img height="30" src="https://avatars.githubusercontent.com/u/39974763?s=64&v=4">
+    </a>
+    <a href="https://github.com/TrustDec">
+        <img height="30" src="https://avatars.githubusercontent.com/u/44854347?s=64&v=4">
+    </a>
+    <a href="https://github.com/TrustDec">
+        <img height="30"
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
+    </a>
+    <a href="https://github.com/TrustDec">
+        <img height="30" src="https://avatars.githubusercontent.com/u/88368777?s=64&v=4">
+    </a>
+    <a href="https://github.com/TrustDec">
+        <img height="30" src="https://avatars.githubusercontent.com/u/39607406?s=64&v=4">
+    </a>
+    <a href="https://github.com/facebook/react/">
+        <img height="30"
+            src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png">
+    </a>
+</div>
 
 >
 
