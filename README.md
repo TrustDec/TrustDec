@@ -35,5 +35,5 @@
 
 >
 
-| <a href="https://github.com/TrustDec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TrustDec&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TrustDec"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrustDec&layout=compact&theme=tokyonight&hide_border=true" /></a> |
+| <a href="https://github.com/TrustDec"><img align="center" src="https://github-readme-stats.vercel.app/api?username=TrustDec&count_private=true&show_icons=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="Anurag's github stats" /></a> | <a href="https://github.com/TrustDec"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TrustDec&count_private=true&layout=compact&theme=tokyonight&hide_border=true" /></a> |
 | ------------- | ------------- |
