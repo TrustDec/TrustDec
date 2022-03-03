@@ -27,6 +27,26 @@
   <a href="https://github.com/TrustDec">
   <img height="30" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/nodejs/nodejs.png">
      </a>
+</code> 
+<code>
+  <a href="https://github.com/TrustDec">
+  <img height="30" src="https://avatars.githubusercontent.com/u/88368777?s=64&v=4">
+     </a>
+</code>  
+<code>
+  <a href="https://github.com/TrustDec">
+  <img height="30" src="https://avatars.githubusercontent.com/u/39974763?s=64&v=4">
+     </a>
+</code>  
+<code>
+  <a href="https://github.com/TrustDec">
+  <img height="30" src="https://avatars.githubusercontent.com/u/39607406?s=64&v=4">
+     </a>
+</code>  
+<code>
+  <a href="https://github.com/TrustDec">
+  <img height="30" src="https://avatars.githubusercontent.com/u/44854347?s=64&v=4">
+     </a>
 </code>  
 
 
