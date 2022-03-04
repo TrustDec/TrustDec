@@ -1,7 +1,5 @@
 ### Hello! I'm TrustDec 👋
 
-> 技术不应该参与政治
-
 **Languages and Tools:**
 
 <div>
