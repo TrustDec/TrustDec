@@ -12,10 +12,15 @@ jobs:
     steps:
       - uses: actions/checkout@v4
 
-      - uses: yoshi389111/github-profile-3d-contrib@0.6.0
+      - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
-          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN || github.token }}
+          GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN }}
           USERNAME: TrustDec
+          MAX_REPOS: 500
+      
+      - name: Make gitblock static
+        run: |
+          node -e "const fs=require('fs');const file='profile-3d-contrib/profile-gitblock.svg';let s=fs.readFileSync(file,'utf8');s=s.replace(/<animateTransform[^>]*>\\s*<\\/animateTransform>/g,'');s=s.replace(/<animateTransform[^>]*\\/\\s*>/g,'');s=s.replace(/<animate[^>]*>\\s*<\\/animate>/g,'');s=s.replace(/<animate[^>]*\\/\\s*>/g,'');fs.writeFileSync(file,s);"
 
       - name: Auto commit
         uses: stefanzweifel/git-auto-commit-action@v4
