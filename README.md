@@ -19,7 +19,7 @@
 </div>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-green.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
   <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg" />
   <img alt="GitHub Profile 3D Contrib" src="profile-3d-contrib/profile-gitblock.svg" />
 </picture>
