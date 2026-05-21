@@ -15,7 +15,7 @@ jobs:
       - uses: yoshi389111/github-profile-3d-contrib@latest
         env:
           GITHUB_TOKEN: ${{ secrets.MY_GITHUB_TOKEN || github.token }}
-          USERNAME: TrustDec
+          USERNAME: GuoruiStudio
           MAX_REPOS: 500
 
       - name: Normalize night backgrounds
