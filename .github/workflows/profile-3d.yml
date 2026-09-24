@@ -5,6 +5,9 @@ on:
     - cron: "5 0 * * *"
   workflow_dispatch:
 
+permissions:
+  contents: write
+
 jobs:
   build:
     runs-on: ubuntu-latest
@@ -20,13 +23,14 @@ jobs:
 
       - name: Normalize night backgrounds
         run: |
-          node -e "const fs=require('fs');for(const file of ['profile-3d-contrib/profile-night-green.svg','profile-3d-contrib/profile-night-view.svg','profile-3d-contrib/profile-night-rainbow.svg']){let s=fs.readFileSync(file,'utf8');s=s.replace(/\\.fill-bg\\s*\\{\\s*fill:\\s*#[0-9a-fA-F]{6}\\s*;\\s*\\}/,'.fill-bg { fill: #0d1117; }');fs.writeFileSync(file,s);}"
-      
+          node -e "const fs=require('fs');for(const file of ['profile-3d-contrib/profile-night-green.svg','profile-3d-contrib/profile-night-view.svg','profile-3d-contrib/profile-night-rainbow.svg']){let s=fs.readFileSync(file,'utf8');s=s.replace(/\\.fill-bg\s*\{\s*fill:\s*#[0-9a-fA-F]{6}\s*;\s*\}/,'.fill-bg { fill: #0d1117; }');fs.writeFileSync(file,s);}"
+      
       - name: Make gitblock static
         run: |
-          node -e "const fs=require('fs');const file='profile-3d-contrib/profile-gitblock.svg';let s=fs.readFileSync(file,'utf8');s=s.replace(/<animateTransform[^>]*>\\s*<\\/animateTransform>/g,'');s=s.replace(/<animateTransform[^>]*\\/\\s*>/g,'');s=s.replace(/<animate[^>]*>\\s*<\\/animate>/g,'');s=s.replace(/<animate[^>]*\\/\\s*>/g,'');fs.writeFileSync(file,s);"
+          node -e "const fs=require('fs');const file='profile-3d-contrib/profile-gitblock.svg';let s=fs.readFileSync(file,'utf8');s=s.replace(/<animateTransform[^>]*>\s*<\/animateTransform>/g,'');s=s.replace(/<animateTransform[^>]*\/\s*>/g,'');s=s.replace(/<animate[^>]*>\s*<\/animate>/g,'');s=s.replace(/<animate[^>]*\/\s*>/g,'');fs.writeFileSync(file,s);"
 
       - name: Auto commit
         uses: stefanzweifel/git-auto-commit-action@v4
         with:
           commit_message: profile image generated
+
