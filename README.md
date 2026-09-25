@@ -1,3 +1,4 @@
+
 <div align="center">
 
 # Trust
@@ -63,6 +64,16 @@ OpenAI · Claude · Gemini · Coding Agents · MCP · Skills · LLM APIs · Work
 
 **Tooling**  
 Rust · Tauri · Git · GitHub · CI/CD · Developer Experience
+
+## Activity
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="profile-3d-contrib/profile-night-view.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="profile-3d-contrib/profile-gitblock.svg" />
+  <img alt="GitHub Profile 3D Contribution Graph" src="profile-3d-contrib/profile-gitblock.svg" />
+</picture>
+
+---
 
 <div align="center">
 
