@@ -1,75 +1,161 @@
-
 <div align="center">
 
-# Trust
+<h1>Trust</h1>
 
-### Full-Stack Product Engineer · AI Builder
+<h3>Full-Stack Product Engineer · AI Builder</h3>
 
-I design and build complete software products across **Web, iOS, Android, Backend, Desktop, and AI**.
+<p>
+  I design and build complete software products across<br/>
+  <strong>Web · iOS · Android · Backend · Desktop · AI</strong>
+</p>
 
-From idea and architecture to interface, implementation, integration, and shipping.
+<p>
+  <sub>
+    From idea and architecture to interface, implementation, integration and shipping.
+  </sub>
+</p>
 
-<br />
+<br/>
 
-[**Projects**](https://github.com/TrustDec?tab=repositories) · [**Website**](https://trustdec.github.io)
+<p>
+  <a href="https://github.com/TrustDec?tab=repositories"><strong>Projects</strong></a>
+  &nbsp;&nbsp;·&nbsp;&nbsp;
+  <a href="https://trustdec.github.io"><strong>Website</strong></a>
+</p>
 
-<br />
+<p>
+  <img
+    src="https://komarev.com/ghpvc/?username=TrustDec&label=Profile%20views&color=8A8A8A&style=flat"
+    alt="TrustDec profile views"
+  />
+</p>
 
-<img src="https://komarev.com/ghpvc/?username=TrustDec&label=Profile%20views&color=8A8A8A&style=flat" alt="TrustDec profile views" />
+<br/>
+
+<p>
+  <kbd>Product</kbd>
+  &nbsp;
+  <kbd>Mobile</kbd>
+  &nbsp;
+  <kbd>Backend</kbd>
+  &nbsp;
+  <kbd>AI</kbd>
+  &nbsp;
+  <kbd>Developer Tools</kbd>
+</p>
 
 </div>
 
+<br/>
+
 ---
 
-## About
+<br/>
 
-I'm a product-minded engineer who enjoys turning ideas into polished, working software.
+<h2>What I build</h2>
 
-My work spans **mobile, web, backend systems, developer tooling, and AI-native applications**. I don't define myself by a single framework or platform — I choose the technology that best fits the product and take responsibility for the full path from concept to delivery.
+<p>
+  <strong>Mobile</strong><br/>
+  <sub>iOS · Android · Flutter · React Native · Native integrations</sub>
+</p>
 
-**Idea → Architecture → Experience → Engineering → Deployment → Iteration**
+<p>
+  <strong>Web & Product</strong><br/>
+  <sub>Modern applications · Dashboards · Internal tools · Product experiences</sub>
+</p>
 
-## What I Build
+<p>
+  <strong>Backend & Systems</strong><br/>
+  <sub>APIs · Authentication · Data flows · Service integrations · Infrastructure</sub>
+</p>
 
-| | |
-| --- | --- |
-| **Mobile** | iOS · Android · Flutter · React Native · Native integrations |
-| **Web** | Modern web products · Internal tools · Dashboards · Interactive experiences |
-| **Backend** | APIs · Business logic · Authentication · Data flows · Service integrations |
-| **AI** | LLM integrations · Agents · MCP · Skills · Automation · AI-native workflows |
-| **Desktop & Tools** | Cross-platform utilities · Developer tools · Engineering workflows |
-| **Product Engineering** | Zero-to-one development · Architecture · UX · Delivery · Iteration |
+<p>
+  <strong>AI-Native Software</strong><br/>
+  <sub>LLMs · Agents · MCP · Skills · Automation · AI-powered workflows</sub>
+</p>
 
-## Current Focus
+<p>
+  <strong>Developer Tools</strong><br/>
+  <sub>Desktop applications · Cross-platform utilities · Engineering workflows · Developer experience</sub>
+</p>
 
-I'm especially interested in the intersection of **AI × Product × Mobile × Developer Tools**.
+<br/>
 
-AI is becoming part of the software engineering environment itself — not only something embedded inside products, but also a new way to research, design, build, test, automate, and operate software.
+---
 
-I work with modern AI models and agentic workflows to build faster, explore deeper, and turn ideas into useful products with less friction.
+<br/>
 
-## Engineering Range
+<h2>Current focus</h2>
 
-**Platforms**  
-iOS · Android · Web · macOS · Cross-platform Desktop
+<h3>AI × Product × Mobile × Developer Tools</h3>
 
-**Application**  
-Swift / Objective-C · Kotlin / Java · Dart / Flutter · React Native · React · TypeScript / JavaScript
+<p>
+  AI is becoming part of the engineering environment itself —
+  not only a capability inside products, but also a new way to
+  research, design, build, test, automate and operate software.
+</p>
 
-**Backend & Systems**  
-Node.js · APIs · Service integrations · Databases · Linux · Nginx · Deployment
+<p>
+  I use modern models, coding agents and automation to move from
+  <strong>idea to working product</strong> with less friction,
+  while keeping product quality and engineering fundamentals at the center.
+</p>
 
-**AI & Automation**  
-OpenAI · Claude · Gemini · Coding Agents · MCP · Skills · LLM APIs · Workflow Automation
+<br/>
 
-**Tooling**  
-Rust · Tauri · Git · GitHub · CI/CD · Developer Experience
+---
 
+<br/>
+
+<details>
+<summary><strong>Engineering toolbox</strong></summary>
+
+<br/>
+
+<p>
+  <strong>Platforms</strong><br/>
+  <sub>iOS · Android · Web · macOS · Cross-platform Desktop</sub>
+</p>
+
+<p>
+  <strong>Languages & Application</strong><br/>
+  <sub>
+    Swift · Objective-C · Kotlin · Java · Dart · Flutter ·
+    React Native · React · TypeScript · JavaScript · Rust
+  </sub>
+</p>
+
+<p>
+  <strong>Backend & Infrastructure</strong><br/>
+  <sub>
+    Node.js · APIs · Databases · Linux · Nginx · CI/CD · Deployment
+  </sub>
+</p>
+
+<p>
+  <strong>AI & Automation</strong><br/>
+  <sub>
+    OpenAI · Claude · Gemini · Coding Agents · MCP · Skills ·
+    LLM APIs · Workflow Automation
+  </sub>
+</p>
+
+</details>
+
+<br/>
+
+---
+
+<br/>
 
 <div align="center">
 
-**Build with clarity. Ship with care.**
+<p><strong>Build with clarity. Ship with care.</strong></p>
 
-<sub>Full-Stack Product Engineer · Mobile · Backend · AI</sub>
+<p>
+  <sub>
+    Product · Mobile · Backend · AI
+  </sub>
+</p>
 
 </div>
