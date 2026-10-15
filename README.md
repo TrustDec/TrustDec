@@ -48,8 +48,6 @@
 
 <br/>
 
----
-
 ## About
 
 Product-minded engineer working across **mobile, web, backend systems, desktop tooling, and AI-native software**.
